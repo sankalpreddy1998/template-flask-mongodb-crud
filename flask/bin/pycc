@@ -1,0 +1,3 @@
+#!/home/tv/Desktop/Projects/TODO-python-flask-mongodb/flask/bin/python2
+from numba.pycc import main
+main()
